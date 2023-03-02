@@ -121,7 +121,7 @@ export default function Product() {
         <Announcement />
         <Wrapper>
             <ImgContainer>
-                <Image src=""/>
+                <Image src={process.env.PUBLIC_URL + "/images/product-skirt.png"} />
             </ImgContainer>
             <InfoContainer>
                 <Title>Denim Jumpsuit</Title>

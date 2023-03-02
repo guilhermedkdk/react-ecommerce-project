@@ -8,7 +8,7 @@ const Container = styled.div`
     rgba(255, 255, 255, 0.5),
     rgba(255,255,255,0.5)    
   ),
-  url("/images/bg-login3.png") center no-repeat;
+  url("/images/bg-login.png") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
